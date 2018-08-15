@@ -1,0 +1,1 @@
+$(document).ready(function(){$('.blog-content').slick({infinite:true,dots:true,arrows:true,slidesToShow:3,slidesToScroll:3,responsive:[{breakpoint:769,settings:{dots:false,slidesToShow:2,slidesToScroll:2}},{breakpoint:575.98,settings:{dots:false,slidesToShow:1,slidesToScroll:1}}]});});
